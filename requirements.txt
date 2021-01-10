@@ -1,0 +1,11 @@
+requests
+bs4
+gspread
+oauth2client
+pandas
+gspread_formatting
+schedule
+pytz
+datetime
+
+
